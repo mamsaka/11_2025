@@ -1,0 +1,7 @@
+C:\Users\zefir\source\repos\SecurityEventLogger\SecurityEventLogger\bin\Debug\SecurityEventLogger.exe.config
+C:\Users\zefir\source\repos\SecurityEventLogger\SecurityEventLogger\bin\Debug\SecurityEventLogger.exe
+C:\Users\zefir\source\repos\SecurityEventLogger\SecurityEventLogger\bin\Debug\SecurityEventLogger.pdb
+C:\Users\zefir\source\repos\SecurityEventLogger\SecurityEventLogger\obj\Debug\SecurityEventLogger.csproj.AssemblyReference.cache
+C:\Users\zefir\source\repos\SecurityEventLogger\SecurityEventLogger\obj\Debug\SecurityEventLogger.csproj.CoreCompileInputs.cache
+C:\Users\zefir\source\repos\SecurityEventLogger\SecurityEventLogger\obj\Debug\SecurityEventLogger.exe
+C:\Users\zefir\source\repos\SecurityEventLogger\SecurityEventLogger\obj\Debug\SecurityEventLogger.pdb

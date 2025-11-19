@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\zefir\\source\\repos\\SecurityEventLogger\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{166A369D-2B33-4D6C-8947-A353D0FBC7CD}|SecurityEventLogger\\SecurityEventLogger.csproj|c:\\users\\zefir\\source\\repos\\securityeventlogger\\securityeventlogger\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{166A369D-2B33-4D6C-8947-A353D0FBC7CD}|SecurityEventLogger\\SecurityEventLogger.csproj|solutionrelative:securityeventlogger\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\zefir\\source\\repos\\SecurityEventLogger\\SecurityEventLogger\\Program.cs",
+              "RelativeDocumentMoniker": "SecurityEventLogger\\Program.cs",
+              "ToolTip": "C:\\Users\\zefir\\source\\repos\\SecurityEventLogger\\SecurityEventLogger\\Program.cs",
+              "RelativeToolTip": "SecurityEventLogger\\Program.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAAAGUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T09:21:08.512Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
