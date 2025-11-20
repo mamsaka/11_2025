@@ -8,3 +8,13 @@ C:\Users\zefir\source\repos\SimplerForm\SimplerForm\bin\Debug\SimplerForm.exe
 C:\Users\zefir\source\repos\SimplerForm\SimplerForm\bin\Debug\SimplerForm.pdb
 C:\Users\zefir\source\repos\SimplerForm\SimplerForm\obj\Debug\SimplerForm.exe
 C:\Users\zefir\source\repos\SimplerForm\SimplerForm\obj\Debug\SimplerForm.pdb
+C:\Users\zefir\Desktop\11_2025\SimplerForm\SimplerForm\bin\Debug\SimplerForm.exe.config
+C:\Users\zefir\Desktop\11_2025\SimplerForm\SimplerForm\bin\Debug\SimplerForm.exe
+C:\Users\zefir\Desktop\11_2025\SimplerForm\SimplerForm\bin\Debug\SimplerForm.pdb
+C:\Users\zefir\Desktop\11_2025\SimplerForm\SimplerForm\obj\Debug\SimplerForm.csproj.AssemblyReference.cache
+C:\Users\zefir\Desktop\11_2025\SimplerForm\SimplerForm\obj\Debug\SimplerForm.Form1.resources
+C:\Users\zefir\Desktop\11_2025\SimplerForm\SimplerForm\obj\Debug\SimplerForm.Properties.Resources.resources
+C:\Users\zefir\Desktop\11_2025\SimplerForm\SimplerForm\obj\Debug\SimplerForm.csproj.GenerateResource.cache
+C:\Users\zefir\Desktop\11_2025\SimplerForm\SimplerForm\obj\Debug\SimplerForm.csproj.CoreCompileInputs.cache
+C:\Users\zefir\Desktop\11_2025\SimplerForm\SimplerForm\obj\Debug\SimplerForm.exe
+C:\Users\zefir\Desktop\11_2025\SimplerForm\SimplerForm\obj\Debug\SimplerForm.pdb

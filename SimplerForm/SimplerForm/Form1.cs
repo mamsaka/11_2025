@@ -8,6 +8,7 @@ namespace SimplerForm
     {
         // Коллекция для хранения данных
         private List<string> items = new List<string>();
+        private string savePath = "items.txt";
 
         public Form1()
         {
@@ -59,7 +60,31 @@ namespace SimplerForm
         // --- Кнопка "Выход" ---
         private void buttonExit_Click(object sender, EventArgs e)
         {
+            System.IO.File.WriteAllLines(savePath, items);
             Application.Exit();
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            if (System.IO.File.Exists(savePath))
+            {
+                var lines = System.IO.File.ReadAllLines(savePath);
+
+                foreach (var line in lines)
+                {
+                    if (!string.IsNullOrWhiteSpace(line))
+                    {
+                        items.Add(line);
+                        viewList.Items.Add(line);
+                    }
+                }
+            }
+
+        }
+
+        private void Form1_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            System.IO.File.WriteAllLines(savePath, items);
         }
     }
 }
