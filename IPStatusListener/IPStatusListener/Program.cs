@@ -6,7 +6,7 @@ using System.Windows.Forms;
 
 namespace IPStatusListener
 {
-    static class Program
+    internal static class Program
     {
         /// <summary>
         /// Главная точка входа для приложения.
