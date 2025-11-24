@@ -1,0 +1,10 @@
+C:\Users\zefir\Desktop\11_2025\IPStatusListener\IPStatusListener\obj\Debug\IPStatusListener.csproj.AssemblyReference.cache
+C:\Users\zefir\Desktop\11_2025\IPStatusListener\IPStatusListener\obj\Debug\IPStatusListener.Form1.resources
+C:\Users\zefir\Desktop\11_2025\IPStatusListener\IPStatusListener\obj\Debug\IPStatusListener.Properties.Resources.resources
+C:\Users\zefir\Desktop\11_2025\IPStatusListener\IPStatusListener\obj\Debug\IPStatusListener.csproj.GenerateResource.cache
+C:\Users\zefir\Desktop\11_2025\IPStatusListener\IPStatusListener\obj\Debug\IPStatusListener.csproj.CoreCompileInputs.cache
+C:\Users\zefir\Desktop\11_2025\IPStatusListener\IPStatusListener\bin\Debug\IPStatusListener.exe.config
+C:\Users\zefir\Desktop\11_2025\IPStatusListener\IPStatusListener\bin\Debug\IPStatusListener.exe
+C:\Users\zefir\Desktop\11_2025\IPStatusListener\IPStatusListener\bin\Debug\IPStatusListener.pdb
+C:\Users\zefir\Desktop\11_2025\IPStatusListener\IPStatusListener\obj\Debug\IPStatusListener.exe
+C:\Users\zefir\Desktop\11_2025\IPStatusListener\IPStatusListener\obj\Debug\IPStatusListener.pdb
