@@ -1,1 +1,3 @@
-<Solution />
+<Solution>
+  <Project Path="IPStatusListener/IPStatusListener.csproj" />
+</Solution>
