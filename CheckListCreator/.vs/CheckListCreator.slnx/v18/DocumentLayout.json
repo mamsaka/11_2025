@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\zefir\\Desktop\\11_2025\\CheckListCreator\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FA045B37-72DA-4A9F-A7ED-A55D22923E12}|CheckListCreator\\CheckListCreator.csproj|c:\\users\\zefir\\desktop\\11_2025\\checklistcreator\\checklistcreator\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{FA045B37-72DA-4A9F-A7ED-A55D22923E12}|CheckListCreator\\CheckListCreator.csproj|solutionrelative:checklistcreator\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{C8BBCD0D-2373-9998-9085-1819CE488F38}|CheckListCreator\\CheckListCreator.csproj|c:\\users\\zefir\\desktop\\11_2025\\checklistcreator\\checklistcreator\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C8BBCD0D-2373-9998-9085-1819CE488F38}|CheckListCreator\\CheckListCreator.csproj|solutionrelative:checklistcreator\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FA045B37-72DA-4A9F-A7ED-A55D22923E12}|CheckListCreator\\CheckListCreator.csproj|c:\\users\\zefir\\desktop\\11_2025\\checklistcreator\\checklistcreator\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FA045B37-72DA-4A9F-A7ED-A55D22923E12}|CheckListCreator\\CheckListCreator.csproj|solutionrelative:checklistcreator\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C8BBCD0D-2373-9998-9085-1819CE488F38}|CheckListCreator\\CheckListCreator.csproj|c:\\users\\zefir\\desktop\\11_2025\\checklistcreator\\checklistcreator\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8BBCD0D-2373-9998-9085-1819CE488F38}|CheckListCreator\\CheckListCreator.csproj|solutionrelative:checklistcreator\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,8 +42,7 @@
               "RelativeToolTip": "CheckListCreator\\MainWindow.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-25T10:17:10.635Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-25T10:17:10.635Z"
             }
           ]
         }
