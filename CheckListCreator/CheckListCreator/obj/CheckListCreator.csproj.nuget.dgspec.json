@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\zefir\\Desktop\\CheckListCreator\\CheckListCreator\\CheckListCreator.csproj": {}
+    "C:\\Users\\zefir\\Desktop\\11_2025\\CheckListCreator\\CheckListCreator\\CheckListCreator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\zefir\\Desktop\\CheckListCreator\\CheckListCreator\\CheckListCreator.csproj": {
+    "C:\\Users\\zefir\\Desktop\\11_2025\\CheckListCreator\\CheckListCreator\\CheckListCreator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\zefir\\Desktop\\CheckListCreator\\CheckListCreator\\CheckListCreator.csproj",
+        "projectUniqueName": "C:\\Users\\zefir\\Desktop\\11_2025\\CheckListCreator\\CheckListCreator\\CheckListCreator.csproj",
         "projectName": "CheckListCreator",
-        "projectPath": "C:\\Users\\zefir\\Desktop\\CheckListCreator\\CheckListCreator\\CheckListCreator.csproj",
+        "projectPath": "C:\\Users\\zefir\\Desktop\\11_2025\\CheckListCreator\\CheckListCreator\\CheckListCreator.csproj",
         "packagesPath": "C:\\Users\\zefir\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\zefir\\Desktop\\CheckListCreator\\CheckListCreator\\obj\\",
+        "outputPath": "C:\\Users\\zefir\\Desktop\\11_2025\\CheckListCreator\\CheckListCreator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\zefir\\AppData\\Roaming\\NuGet\\NuGet.Config",
