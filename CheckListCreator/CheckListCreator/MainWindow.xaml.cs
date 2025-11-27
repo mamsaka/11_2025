@@ -19,6 +19,7 @@ namespace CheckListCreator
         public MainWindow()
         {
             InitializeComponent();
+            MainFrame.Content = new ChecklistsList();
         }
     }
 }
