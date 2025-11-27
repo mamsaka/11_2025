@@ -1,4 +1,6 @@
-﻿using System.Text;
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
 using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Data;
@@ -12,14 +14,13 @@ using System.Windows.Shapes;
 namespace CheckListCreator
 {
     /// <summary>
-    /// Interaction logic for MainWindow.xaml
+    /// Логика взаимодействия для RedactorPage.xaml
     /// </summary>
-    public partial class MainWindow : Window
+    public partial class RedactorPage : Page
     {
-        public MainWindow()
+        public RedactorPage()
         {
             InitializeComponent();
-            MainFrame.Content = new ChecklistsList();
         }
     }
 }
