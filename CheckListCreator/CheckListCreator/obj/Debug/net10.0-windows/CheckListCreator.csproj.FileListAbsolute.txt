@@ -34,7 +34,6 @@ C:\Users\zefir\Desktop\11_2025\CheckListCreator\CheckListCreator\obj\Debug\net10
 C:\Users\zefir\Desktop\11_2025\CheckListCreator\CheckListCreator\obj\Debug\net10.0-windows\MainWindow.g.cs
 C:\Users\zefir\Desktop\11_2025\CheckListCreator\CheckListCreator\obj\Debug\net10.0-windows\App.g.cs
 C:\Users\zefir\Desktop\11_2025\CheckListCreator\CheckListCreator\obj\Debug\net10.0-windows\CheckListCreator_MarkupCompile.cache
-C:\Users\zefir\Desktop\11_2025\CheckListCreator\CheckListCreator\obj\Debug\net10.0-windows\CheckListCreator_MarkupCompile.lref
 C:\Users\zefir\Desktop\11_2025\CheckListCreator\CheckListCreator\obj\Debug\net10.0-windows\ChecklistEditor.baml
 C:\Users\zefir\Desktop\11_2025\CheckListCreator\CheckListCreator\obj\Debug\net10.0-windows\ChecklistsList.baml
 C:\Users\zefir\Desktop\11_2025\CheckListCreator\CheckListCreator\obj\Debug\net10.0-windows\MainWindow.baml
