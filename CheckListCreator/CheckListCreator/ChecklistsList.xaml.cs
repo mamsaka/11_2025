@@ -34,12 +34,6 @@ namespace CheckListCreator
         {
             if (Checklists.SelectedItem is Checklist selectedChecklist)
             {
-                // Здесь ваш код для обработки двойного клика
-                // Например:
-                MessageBox.Show($"Двойной клик по: {selectedChecklist.Name}");
-
-                // Или открытие страницы редактирования:
-                // NavigationService.Navigate(new EditChecklistPage(selectedChecklist));
             }
         }
     }
