@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Hg2HDvVNHW4=",
+  "dgSpecHash": "1G741Tr5bRM=",
   "success": true,
-  "projectFilePath": "C:\\Users\\zefir\\Desktop\\11_2025\\CheckListCreator\\CheckListCreator\\CheckListCreator.csproj",
+  "projectFilePath": "C:\\Users\\zefir\\Desktop\\CheckListCreator\\CheckListCreator\\CheckListCreator.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\zefir\\.nuget\\packages\\newtonsoft.json\\13.0.4\\newtonsoft.json.13.0.4.nupkg.sha512"
   ],

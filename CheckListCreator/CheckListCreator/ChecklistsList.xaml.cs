@@ -26,9 +26,8 @@ namespace CheckListCreator
 
         private void Add_checklist_Click(object sender, RoutedEventArgs e)
         {
-            Checklist NewChecklist = new Checklist(NewName.Text, null, 100, NewDescription.Text);
+            Checklist NewChecklist = new Checklist(NewName.Text, null, 100, true, NewDescription.Text);
             Checklists.Items.Add(NewChecklist);
-            string json = JsonConvert.SerializeObject(NewChecklist);
         }
 
         private void Checklists_MouseDoubleClick(object sender, MouseButtonEventArgs e)

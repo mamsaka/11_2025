@@ -9,43 +9,56 @@ namespace CheckListCreator
         public string Name { get; set; }
         public List<Task> Tasks { get; set; }
         public int Completness { get; set; }
+        public bool CompleteFlag { get; set; }
         public string Description { get; set; }
 
-        public Checklist(string name, List<Task> Tasks, int completness, string description)
+        public Checklist(string name, List<Task> Tasks, int completness, bool complete_flag, string description)
         {
             Name = name;
             Tasks = Tasks ?? new List<Task>();
             Completness = completness;
+            CompleteFlag = complete_flag;
             Description = description;
         }
 
-        public Checklist(string name, int completness, string description)
-            : this(name, new List<Task>(), completness, description)
-        {
-        }
-
-        public void AddSubTask(Task subTask)
+        public void AddTask(Task Task)
         {
             if (Tasks == null)
             {
                 Tasks = new List<Task>();
             }
-            Tasks.Add(subTask);
+            Tasks.Add(Task);
         }
 
         public override string ToString()
         {
-            int tasks;
+            string tasks;
 
-            if (Tasks == null)
+            if (Tasks == null || Tasks.Count == 0)
             {
-                tasks = 0;
+                tasks = "";
             }
             else
             {
-                tasks = Tasks.Count;
+                tasks = $" [Задачи: {Tasks.Count}]";
             }
-            return $"{Name} ({Completness}%) - {Description} [Задачи: {tasks}]";
+
+            string completed;
+
+            if (Completness == 100)
+            {
+                completed = "✅";
+            }
+            else if ( Completness == 0 )
+            {
+                completed = "❎";
+            }
+            else
+            {
+                completed = $"{Completness}%";
+            }
+
+            return $"{Name} ({completed}) - {Description}{tasks}";
         }
     }
 }

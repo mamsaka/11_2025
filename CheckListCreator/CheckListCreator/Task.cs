@@ -9,19 +9,16 @@ namespace CheckListCreator
         public string Name { get; set; }
         public List<Task> SubTasks { get; set; }
         public int Completness { get; set; }
+        public bool CompleteFlag { get; set; }
         public string Description { get; set; }
 
-        public Task(string name, List<Task> subTasks, int completness, string description)
+        public Task(string name, List<Task> SubTasks, int completness, bool complete_flag, string description)
         {
             Name = name;
-            SubTasks = subTasks ?? new List<Task>();
-            Completness = completness;
+            SubTasks = SubTasks ?? new List<Task>();
+            Completness = completness; // Show this, if no sub tasks
+            CompleteFlag = complete_flag; // Use it as toogle button in redactor if no sub tasks
             Description = description;
-        }
-
-        public Task(string name, int completness, string description)
-            : this(name, new List<Task>(), completness, description)
-        {
         }
 
         public void AddSubTask(Task subTask)
