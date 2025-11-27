@@ -1,41 +1,95 @@
 ﻿<Page x:Class="CheckListCreator.ChecklistsList"
       xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
       xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
-      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
-      xmlns:local="clr-namespace:CheckListCreator"
-      mc:Ignorable="d" 
-      d:DesignHeight="450" d:DesignWidth="800"
-      Title="ChecklistsList">
+      Title="Список чек-листов">
 
-    <StackPanel Background="White">
-        <Grid>
-            <Grid.ColumnDefinitions>
-                <ColumnDefinition Width="500"/>
-                <ColumnDefinition Width="*"/>
-            </Grid.ColumnDefinitions>
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
 
-            <ListBox MouseDoubleClick="Checklists_MouseDoubleClick" SelectionMode="Single" Name="Checklists" Grid.Column="0" VerticalAlignment="Stretch"/>
-            <StackPanel Grid.Column="1" Margin="10">
-                <Grid>
-                    <Grid.RowDefinitions>
-                        <RowDefinition Height="Auto"/>
-                        <RowDefinition Height="Auto"/>
-                        <RowDefinition Height="Auto"/>
-                    </Grid.RowDefinitions>
+        <!-- Заголовок -->
+        <TextBlock Grid.Row="0" Text="Мои чек-листы" FontSize="20" FontWeight="Bold" 
+                   Margin="0,0,0,10"/>
 
-                    <WrapPanel Grid.Row="0" HorizontalAlignment="Stretch">
-                        <Label Height="25">Название чек-листа:</Label>
-                        <TextBox Name="NewName" Height="25" HorizontalAlignment="Stretch" Width="200"/>
-                    </WrapPanel>
-                    <WrapPanel Grid.Row="1" HorizontalAlignment="Stretch">
-                        <Label Height="25">Описание чек-листа:</Label>
-                        <TextBox Name="NewDescription" Height="75" HorizontalAlignment="Stretch" Width="200"/>
-                    </WrapPanel>
-                    <Button Grid.Row="2" Height="50" HorizontalAlignment="Stretch" 
-                        Name="Add_checklist" Content="Добавить чек-лист" Click="Add_checklist_Click"/>
-                </Grid>
+        <!-- Список чек-листов -->
+        <ListBox x:Name="Checklists" Grid.Row="1" Margin="0,0,0,10"
+                 MouseDoubleClick="Checklists_MouseDoubleClick"
+                 ScrollViewer.VerticalScrollBarVisibility="Auto">
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <Border BorderBrush="LightGray" BorderThickness="1" Margin="2" 
+                            Padding="10" CornerRadius="5" Background="White">
+                        <Grid>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="Auto"/>
+                                <ColumnDefinition Width="*"/>
+                                <ColumnDefinition Width="Auto"/>
+                            </Grid.ColumnDefinitions>
+
+                            <!-- Прогресс -->
+                            <StackPanel Grid.Column="0" Orientation="Vertical" 
+                                        VerticalAlignment="Center" Margin="0,0,15,0">
+                                <TextBlock Text="{Binding Completness, StringFormat='{}{0}%', Mode=OneWay}" 
+                                           FontSize="16" FontWeight="Bold" 
+                                           HorizontalAlignment="Center"/>
+                                <ProgressBar Value="{Binding Completness, Mode=OneWay}" Maximum="100" 
+                                             Width="60" Height="10" Margin="0,5,0,0"/>
+                            </StackPanel>
+
+                            <!-- Информация о чек-листе -->
+                            <StackPanel Grid.Column="1">
+                                <TextBlock Text="{Binding Name}" FontWeight="Bold" FontSize="14"/>
+                                <TextBlock Text="{Binding Description}" FontStyle="Italic" 
+                                           Foreground="Gray" TextWrapping="Wrap" Margin="0,2,0,0"/>
+                                <TextBlock Text="{Binding Tasks.Count, StringFormat='Всего задач: {0}', Mode=OneWay}" 
+                                           Foreground="DarkBlue" FontSize="11" Margin="0,5,0,0"/>
+                            </StackPanel>
+
+                            <!-- Статус -->
+                            <TextBlock Grid.Column="2" FontSize="20" VerticalAlignment="Center" Margin="10,0,0,0">
+                                <TextBlock.Style>
+                                    <Style TargetType="TextBlock">
+                                        <Style.Triggers>
+                                            <DataTrigger Binding="{Binding Completness}" Value="100">
+                                                <Setter Property="Text" Value="✅"/>
+                                            </DataTrigger>
+                                            <DataTrigger Binding="{Binding Completness}" Value="0">
+                                                <Setter Property="Text" Value="❎"/>
+                                            </DataTrigger>
+                                            <DataTrigger Binding="{Binding Completness}">
+                                                <Setter Property="Text" Value="⏳"/>
+                                            </DataTrigger>
+                                        </Style.Triggers>
+                                    </Style>
+                                </TextBlock.Style>
+                            </TextBlock>
+                        </Grid>
+                    </Border>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+
+        <!-- Панель добавления -->
+        <Border Grid.Row="2" BorderBrush="LightGray" BorderThickness="1" 
+                Background="LightYellow" Padding="10" CornerRadius="5">
+            <StackPanel>
+                <TextBlock Text="Добавить новый чек-лист" FontWeight="Bold" Margin="0,0,0,5"/>
+
+                <StackPanel Orientation="Horizontal">
+                    <TextBox x:Name="NewName" Width="200" Margin="0,0,10,0" 
+                             Text="Новый чек-лист" ToolTip="Название чек-листа"/>
+                    <TextBox x:Name="NewDescription" Width="300" Margin="0,0,10,0"
+                             Text="Описание" ToolTip="Описание чек-листа"/>
+                    <Button x:Name="Add_checklist" Content="Добавить" 
+                            Click="Add_checklist_Click" Padding="10,5"/>
+                    <Button x:Name="DeleteButton" Content="Удалить выбранный" 
+                            Click="DeleteChecklist_Click" Padding="10,5" Margin="10,0,0,0"
+                            Background="LightCoral"/>
+                </StackPanel>
             </StackPanel>
-        </Grid>
-    </StackPanel>
+        </Border>
+    </Grid>
 </Page>
