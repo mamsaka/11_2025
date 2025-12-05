@@ -56,6 +56,7 @@
 
                 <ListBox x:Name="TasksList" Grid.Row="0" 
                          ScrollViewer.VerticalScrollBarVisibility="Auto"
+                         ScrollViewer.CanContentScroll="False"
                          BorderThickness="0">
                     <ListBox.ItemTemplate>
                         <DataTemplate>
