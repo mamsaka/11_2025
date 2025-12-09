@@ -50,6 +50,7 @@ class Program
                 {
                     // Если попытки закончились — доступ блокируется
                     Console.WriteLine("Доступ запрещён");
+                    Console.ReadLine();
                 }
             }
         }
