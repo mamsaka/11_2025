@@ -38,7 +38,7 @@ namespace CheckListCreator
         public int Completness
         {
             get => _completness;
-            private set
+            set
             {
                 if (_completness != value)
                 {
