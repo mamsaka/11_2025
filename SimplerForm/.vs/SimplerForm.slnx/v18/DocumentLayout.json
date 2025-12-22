@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\zefir\\Desktop\\11_2025\\SimplerForm\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0970133E-D91D-4CA4-BEC2-EAAEC38B6C53}|SimplerForm\\SimplerForm.csproj|C:\\Users\\zefir\\Desktop\\11_2025\\SimplerForm\\simplerform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{0970133E-D91D-4CA4-BEC2-EAAEC38B6C53}|SimplerForm\\SimplerForm.csproj|c:\\users\\zefir\\desktop\\11_2025\\simplerform\\simplerform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{0970133E-D91D-4CA4-BEC2-EAAEC38B6C53}|SimplerForm\\SimplerForm.csproj|solutionrelative:simplerform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0970133E-D91D-4CA4-BEC2-EAAEC38B6C53}|SimplerForm\\SimplerForm.csproj|c:\\users\\zefir\\desktop\\11_2025\\simplerform\\simplerform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0970133E-D91D-4CA4-BEC2-EAAEC38B6C53}|SimplerForm\\SimplerForm.csproj|C:\\Users\\zefir\\Desktop\\11_2025\\SimplerForm\\simplerform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0970133E-D91D-4CA4-BEC2-EAAEC38B6C53}|SimplerForm\\SimplerForm.csproj|solutionrelative:simplerform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -22,8 +22,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
