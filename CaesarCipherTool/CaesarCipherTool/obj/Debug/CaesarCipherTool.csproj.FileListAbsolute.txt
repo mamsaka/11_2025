@@ -5,3 +5,10 @@ C:\Users\zefir\source\repos\CaesarCipherTool\CaesarCipherTool\obj\Debug\CaesarCi
 C:\Users\zefir\source\repos\CaesarCipherTool\CaesarCipherTool\obj\Debug\CaesarCipherTool.csproj.CoreCompileInputs.cache
 C:\Users\zefir\source\repos\CaesarCipherTool\CaesarCipherTool\obj\Debug\CaesarCipherTool.exe
 C:\Users\zefir\source\repos\CaesarCipherTool\CaesarCipherTool\obj\Debug\CaesarCipherTool.pdb
+C:\Users\zefir\Desktop\11_2025\CaesarCipherTool\CaesarCipherTool\bin\Debug\CaesarCipherTool.exe.config
+C:\Users\zefir\Desktop\11_2025\CaesarCipherTool\CaesarCipherTool\bin\Debug\CaesarCipherTool.exe
+C:\Users\zefir\Desktop\11_2025\CaesarCipherTool\CaesarCipherTool\bin\Debug\CaesarCipherTool.pdb
+C:\Users\zefir\Desktop\11_2025\CaesarCipherTool\CaesarCipherTool\obj\Debug\CaesarCipherTool.csproj.AssemblyReference.cache
+C:\Users\zefir\Desktop\11_2025\CaesarCipherTool\CaesarCipherTool\obj\Debug\CaesarCipherTool.csproj.CoreCompileInputs.cache
+C:\Users\zefir\Desktop\11_2025\CaesarCipherTool\CaesarCipherTool\obj\Debug\CaesarCipherTool.exe
+C:\Users\zefir\Desktop\11_2025\CaesarCipherTool\CaesarCipherTool\obj\Debug\CaesarCipherTool.pdb
