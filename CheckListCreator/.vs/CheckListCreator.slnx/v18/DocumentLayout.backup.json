@@ -50,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,15 +58,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ChecklistsList.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\zefir\\Desktop\\CheckListCreator\\CheckListCreator\\ChecklistsList.xaml.cs",
-              "RelativeDocumentMoniker": "CheckListCreator\\ChecklistsList.xaml.cs",
-              "ToolTip": "C:\\Users\\zefir\\Desktop\\CheckListCreator\\CheckListCreator\\ChecklistsList.xaml.cs",
-              "RelativeToolTip": "CheckListCreator\\ChecklistsList.xaml.cs",
-              "ViewState": "AgIAADYAAAAAAAAAAAAowEwAAABGAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "DataService.cs",
+              "DocumentMoniker": "C:\\Users\\zefir\\Desktop\\CheckListCreator\\CheckListCreator\\DataService.cs",
+              "RelativeDocumentMoniker": "CheckListCreator\\DataService.cs",
+              "ToolTip": "C:\\Users\\zefir\\Desktop\\CheckListCreator\\CheckListCreator\\DataService.cs",
+              "RelativeToolTip": "CheckListCreator\\DataService.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAArwDYAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-05T08:46:55.347Z",
+              "WhenOpened": "2025-12-05T08:47:12.09Z",
               "EditorCaption": ""
             },
             {
@@ -118,15 +118,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "DataService.cs",
-              "DocumentMoniker": "C:\\Users\\zefir\\Desktop\\CheckListCreator\\CheckListCreator\\DataService.cs",
-              "RelativeDocumentMoniker": "CheckListCreator\\DataService.cs",
-              "ToolTip": "C:\\Users\\zefir\\Desktop\\CheckListCreator\\CheckListCreator\\DataService.cs",
-              "RelativeToolTip": "CheckListCreator\\DataService.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAArwDYAAAAQAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "ChecklistsList.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\zefir\\Desktop\\CheckListCreator\\CheckListCreator\\ChecklistsList.xaml.cs",
+              "RelativeDocumentMoniker": "CheckListCreator\\ChecklistsList.xaml.cs",
+              "ToolTip": "C:\\Users\\zefir\\Desktop\\CheckListCreator\\CheckListCreator\\ChecklistsList.xaml.cs",
+              "RelativeToolTip": "CheckListCreator\\ChecklistsList.xaml.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAowEwAAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-05T08:47:12.09Z",
+              "WhenOpened": "2025-12-05T08:46:55.347Z",
               "EditorCaption": ""
             },
             {

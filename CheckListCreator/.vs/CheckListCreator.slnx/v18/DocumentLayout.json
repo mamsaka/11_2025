@@ -1,45 +1,45 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\zefir\\Desktop\\CheckListCreator\\",
+  "WorkspaceRootPath": "C:\\Users\\zefir\\Desktop\\11_2025\\CheckListCreator\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C8BBCD0D-2373-9998-9085-1819CE488F38}|CheckListCreator\\CheckListCreator.csproj|c:\\users\\zefir\\desktop\\checklistcreator\\checklistcreator\\dataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8BBCD0D-2373-9998-9085-1819CE488F38}|CheckListCreator\\CheckListCreator.csproj|solutionrelative:checklistcreator\\dataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C8BBCD0D-2373-9998-9085-1819CE488F38}|CheckListCreator\\CheckListCreator.csproj|c:\\users\\zefir\\desktop\\checklistcreator\\checklistcreator\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8BBCD0D-2373-9998-9085-1819CE488F38}|CheckListCreator\\CheckListCreator.csproj|solutionrelative:checklistcreator\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C8BBCD0D-2373-9998-9085-1819CE488F38}|CheckListCreator\\CheckListCreator.csproj|c:\\users\\zefir\\desktop\\checklistcreator\\checklistcreator\\checklistslist.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8BBCD0D-2373-9998-9085-1819CE488F38}|CheckListCreator\\CheckListCreator.csproj|solutionrelative:checklistcreator\\checklistslist.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C8BBCD0D-2373-9998-9085-1819CE488F38}|CheckListCreator\\CheckListCreator.csproj|c:\\users\\zefir\\desktop\\checklistcreator\\checklistcreator\\checklistslist.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{C8BBCD0D-2373-9998-9085-1819CE488F38}|CheckListCreator\\CheckListCreator.csproj|c:\\users\\zefir\\desktop\\11_2025\\checklistcreator\\checklistcreator\\checklistslist.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{C8BBCD0D-2373-9998-9085-1819CE488F38}|CheckListCreator\\CheckListCreator.csproj|solutionrelative:checklistcreator\\checklistslist.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C8BBCD0D-2373-9998-9085-1819CE488F38}|CheckListCreator\\CheckListCreator.csproj|c:\\users\\zefir\\desktop\\checklistcreator\\checklistcreator\\checklisteditor.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{C8BBCD0D-2373-9998-9085-1819CE488F38}|CheckListCreator\\CheckListCreator.csproj|solutionrelative:checklistcreator\\checklisteditor.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C8BBCD0D-2373-9998-9085-1819CE488F38}|CheckListCreator\\CheckListCreator.csproj|c:\\users\\zefir\\desktop\\checklistcreator\\checklistcreator\\checklisteditor.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8BBCD0D-2373-9998-9085-1819CE488F38}|CheckListCreator\\CheckListCreator.csproj|solutionrelative:checklistcreator\\checklisteditor.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C8BBCD0D-2373-9998-9085-1819CE488F38}|CheckListCreator\\CheckListCreator.csproj|c:\\users\\zefir\\desktop\\checklistcreator\\checklistcreator\\checklist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C8BBCD0D-2373-9998-9085-1819CE488F38}|CheckListCreator\\CheckListCreator.csproj|c:\\users\\zefir\\desktop\\11_2025\\checklistcreator\\checklistcreator\\checklist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C8BBCD0D-2373-9998-9085-1819CE488F38}|CheckListCreator\\CheckListCreator.csproj|solutionrelative:checklistcreator\\checklist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C8BBCD0D-2373-9998-9085-1819CE488F38}|CheckListCreator\\CheckListCreator.csproj|c:\\users\\zefir\\desktop\\checklistcreator\\checklistcreator\\converters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8BBCD0D-2373-9998-9085-1819CE488F38}|CheckListCreator\\CheckListCreator.csproj|solutionrelative:checklistcreator\\converters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C8BBCD0D-2373-9998-9085-1819CE488F38}|CheckListCreator\\CheckListCreator.csproj|c:\\users\\zefir\\desktop\\11_2025\\checklistcreator\\checklistcreator\\checklistslist.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8BBCD0D-2373-9998-9085-1819CE488F38}|CheckListCreator\\CheckListCreator.csproj|solutionrelative:checklistcreator\\checklistslist.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C8BBCD0D-2373-9998-9085-1819CE488F38}|CheckListCreator\\CheckListCreator.csproj|c:\\users\\zefir\\desktop\\checklistcreator\\checklistcreator\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C8BBCD0D-2373-9998-9085-1819CE488F38}|CheckListCreator\\CheckListCreator.csproj|c:\\users\\zefir\\desktop\\11_2025\\checklistcreator\\checklistcreator\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C8BBCD0D-2373-9998-9085-1819CE488F38}|CheckListCreator\\CheckListCreator.csproj|solutionrelative:checklistcreator\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C8BBCD0D-2373-9998-9085-1819CE488F38}|CheckListCreator\\CheckListCreator.csproj|c:\\users\\zefir\\desktop\\checklistcreator\\checklistcreator\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{C8BBCD0D-2373-9998-9085-1819CE488F38}|CheckListCreator\\CheckListCreator.csproj|c:\\users\\zefir\\desktop\\11_2025\\checklistcreator\\checklistcreator\\converters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8BBCD0D-2373-9998-9085-1819CE488F38}|CheckListCreator\\CheckListCreator.csproj|solutionrelative:checklistcreator\\converters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8BBCD0D-2373-9998-9085-1819CE488F38}|CheckListCreator\\CheckListCreator.csproj|c:\\users\\zefir\\desktop\\11_2025\\checklistcreator\\checklistcreator\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8BBCD0D-2373-9998-9085-1819CE488F38}|CheckListCreator\\CheckListCreator.csproj|solutionrelative:checklistcreator\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8BBCD0D-2373-9998-9085-1819CE488F38}|CheckListCreator\\CheckListCreator.csproj|c:\\users\\zefir\\desktop\\11_2025\\checklistcreator\\checklistcreator\\dataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8BBCD0D-2373-9998-9085-1819CE488F38}|CheckListCreator\\CheckListCreator.csproj|solutionrelative:checklistcreator\\dataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8BBCD0D-2373-9998-9085-1819CE488F38}|CheckListCreator\\CheckListCreator.csproj|c:\\users\\zefir\\desktop\\11_2025\\checklistcreator\\checklistcreator\\checklisteditor.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C8BBCD0D-2373-9998-9085-1819CE488F38}|CheckListCreator\\CheckListCreator.csproj|solutionrelative:checklistcreator\\checklisteditor.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8BBCD0D-2373-9998-9085-1819CE488F38}|CheckListCreator\\CheckListCreator.csproj|c:\\users\\zefir\\desktop\\11_2025\\checklistcreator\\checklistcreator\\checklisteditor.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8BBCD0D-2373-9998-9085-1819CE488F38}|CheckListCreator\\CheckListCreator.csproj|solutionrelative:checklistcreator\\checklisteditor.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8BBCD0D-2373-9998-9085-1819CE488F38}|CheckListCreator\\CheckListCreator.csproj|c:\\users\\zefir\\desktop\\11_2025\\checklistcreator\\checklistcreator\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{C8BBCD0D-2373-9998-9085-1819CE488F38}|CheckListCreator\\CheckListCreator.csproj|solutionrelative:checklistcreator\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
@@ -50,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,71 +58,75 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "DataService.cs",
-              "DocumentMoniker": "C:\\Users\\zefir\\Desktop\\CheckListCreator\\CheckListCreator\\DataService.cs",
+              "DocumentMoniker": "C:\\Users\\zefir\\Desktop\\11_2025\\CheckListCreator\\CheckListCreator\\DataService.cs",
               "RelativeDocumentMoniker": "CheckListCreator\\DataService.cs",
-              "ToolTip": "C:\\Users\\zefir\\Desktop\\CheckListCreator\\CheckListCreator\\DataService.cs",
+              "ToolTip": "C:\\Users\\zefir\\Desktop\\11_2025\\CheckListCreator\\CheckListCreator\\DataService.cs",
               "RelativeToolTip": "CheckListCreator\\DataService.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAArwDYAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAACUAAAAAAAAAAIA8wDYAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-05T08:47:12.09Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "ChecklistsList.xaml",
-              "DocumentMoniker": "C:\\Users\\zefir\\Desktop\\CheckListCreator\\CheckListCreator\\ChecklistsList.xaml",
+              "DocumentMoniker": "C:\\Users\\zefir\\Desktop\\11_2025\\CheckListCreator\\CheckListCreator\\ChecklistsList.xaml",
               "RelativeDocumentMoniker": "CheckListCreator\\ChecklistsList.xaml",
-              "ToolTip": "C:\\Users\\zefir\\Desktop\\CheckListCreator\\CheckListCreator\\ChecklistsList.xaml",
+              "ToolTip": "C:\\Users\\zefir\\Desktop\\11_2025\\CheckListCreator\\CheckListCreator\\ChecklistsList.xaml",
               "RelativeToolTip": "CheckListCreator\\ChecklistsList.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-12-05T08:46:42.433Z"
+              "WhenOpened": "2025-12-05T08:46:42.433Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "Checklist.cs",
-              "DocumentMoniker": "C:\\Users\\zefir\\Desktop\\CheckListCreator\\CheckListCreator\\Checklist.cs",
+              "DocumentMoniker": "C:\\Users\\zefir\\Desktop\\11_2025\\CheckListCreator\\CheckListCreator\\Checklist.cs",
               "RelativeDocumentMoniker": "CheckListCreator\\Checklist.cs",
-              "ToolTip": "C:\\Users\\zefir\\Desktop\\CheckListCreator\\CheckListCreator\\Checklist.cs",
+              "ToolTip": "C:\\Users\\zefir\\Desktop\\11_2025\\CheckListCreator\\CheckListCreator\\Checklist.cs",
               "RelativeToolTip": "CheckListCreator\\Checklist.cs",
-              "ViewState": "AgIAAE8AAAAAAAAAAADwv2gAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAwwGgAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-27T10:08:40.059Z"
+              "WhenOpened": "2025-11-27T10:08:40.059Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
               "Title": "Converters.cs",
-              "DocumentMoniker": "C:\\Users\\zefir\\Desktop\\CheckListCreator\\CheckListCreator\\Converters.cs",
+              "DocumentMoniker": "C:\\Users\\zefir\\Desktop\\11_2025\\CheckListCreator\\CheckListCreator\\Converters.cs",
               "RelativeDocumentMoniker": "CheckListCreator\\Converters.cs",
-              "ToolTip": "C:\\Users\\zefir\\Desktop\\CheckListCreator\\CheckListCreator\\Converters.cs",
+              "ToolTip": "C:\\Users\\zefir\\Desktop\\11_2025\\CheckListCreator\\CheckListCreator\\Converters.cs",
               "RelativeToolTip": "CheckListCreator\\Converters.cs",
               "ViewState": "AgIAABUAAAAAAAAAAAAYwDMAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-07T10:03:36.132Z"
+              "WhenOpened": "2025-12-07T10:03:36.132Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 3,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\zefir\\Desktop\\CheckListCreator\\CheckListCreator\\MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\zefir\\Desktop\\11_2025\\CheckListCreator\\CheckListCreator\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "CheckListCreator\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\zefir\\Desktop\\CheckListCreator\\CheckListCreator\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\zefir\\Desktop\\11_2025\\CheckListCreator\\CheckListCreator\\MainWindow.xaml.cs",
               "RelativeToolTip": "CheckListCreator\\MainWindow.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-05T09:07:38.931Z"
+              "WhenOpened": "2025-12-05T09:07:38.931Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "ChecklistsList.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\zefir\\Desktop\\CheckListCreator\\CheckListCreator\\ChecklistsList.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\zefir\\Desktop\\11_2025\\CheckListCreator\\CheckListCreator\\ChecklistsList.xaml.cs",
               "RelativeDocumentMoniker": "CheckListCreator\\ChecklistsList.xaml.cs",
-              "ToolTip": "C:\\Users\\zefir\\Desktop\\CheckListCreator\\CheckListCreator\\ChecklistsList.xaml.cs",
+              "ToolTip": "C:\\Users\\zefir\\Desktop\\11_2025\\CheckListCreator\\CheckListCreator\\ChecklistsList.xaml.cs",
               "RelativeToolTip": "CheckListCreator\\ChecklistsList.xaml.cs",
               "ViewState": "AgIAADYAAAAAAAAAAAAowEwAAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -131,24 +135,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Task.cs",
-              "DocumentMoniker": "C:\\Users\\zefir\\Desktop\\CheckListCreator\\CheckListCreator\\Task.cs",
+              "DocumentMoniker": "C:\\Users\\zefir\\Desktop\\11_2025\\CheckListCreator\\CheckListCreator\\Task.cs",
               "RelativeDocumentMoniker": "CheckListCreator\\Task.cs",
-              "ToolTip": "C:\\Users\\zefir\\Desktop\\CheckListCreator\\CheckListCreator\\Task.cs",
+              "ToolTip": "C:\\Users\\zefir\\Desktop\\11_2025\\CheckListCreator\\CheckListCreator\\Task.cs",
               "RelativeToolTip": "CheckListCreator\\Task.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAACgAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAowD4AAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-27T07:42:11.189Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "ChecklistEditor.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\zefir\\Desktop\\CheckListCreator\\CheckListCreator\\ChecklistEditor.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\zefir\\Desktop\\11_2025\\CheckListCreator\\CheckListCreator\\ChecklistEditor.xaml.cs",
               "RelativeDocumentMoniker": "CheckListCreator\\ChecklistEditor.xaml.cs",
-              "ToolTip": "C:\\Users\\zefir\\Desktop\\CheckListCreator\\CheckListCreator\\ChecklistEditor.xaml.cs",
+              "ToolTip": "C:\\Users\\zefir\\Desktop\\11_2025\\CheckListCreator\\CheckListCreator\\ChecklistEditor.xaml.cs",
               "RelativeToolTip": "CheckListCreator\\ChecklistEditor.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -156,11 +160,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "ChecklistEditor.xaml",
-              "DocumentMoniker": "C:\\Users\\zefir\\Desktop\\CheckListCreator\\CheckListCreator\\ChecklistEditor.xaml",
+              "DocumentMoniker": "C:\\Users\\zefir\\Desktop\\11_2025\\CheckListCreator\\CheckListCreator\\ChecklistEditor.xaml",
               "RelativeDocumentMoniker": "CheckListCreator\\ChecklistEditor.xaml",
-              "ToolTip": "C:\\Users\\zefir\\Desktop\\CheckListCreator\\CheckListCreator\\ChecklistEditor.xaml",
+              "ToolTip": "C:\\Users\\zefir\\Desktop\\11_2025\\CheckListCreator\\CheckListCreator\\ChecklistEditor.xaml",
               "RelativeToolTip": "CheckListCreator\\ChecklistEditor.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-12-05T05:40:59.983Z"
@@ -169,9 +173,9 @@
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\zefir\\Desktop\\CheckListCreator\\CheckListCreator\\MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\zefir\\Desktop\\11_2025\\CheckListCreator\\CheckListCreator\\MainWindow.xaml",
               "RelativeDocumentMoniker": "CheckListCreator\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\zefir\\Desktop\\CheckListCreator\\CheckListCreator\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\zefir\\Desktop\\11_2025\\CheckListCreator\\CheckListCreator\\MainWindow.xaml",
               "RelativeToolTip": "CheckListCreator\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-12-05T09:07:33.319Z"

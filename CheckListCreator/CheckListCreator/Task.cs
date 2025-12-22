@@ -61,9 +61,7 @@ namespace CheckListCreator
 
                     if (value)
                     {
-                        // Если включаем галочку - включаем все подзадачи
                         SetAllSubTasksComplete(true);
-                        // Для задач с подзадачами устанавливаем прогресс в 100%
                         if (HasSubTasks)
                         {
                             Completness = 100;
@@ -71,16 +69,13 @@ namespace CheckListCreator
                     }
                     else
                     {
-                        // Если выключаем галочку - выключаем все подзадачи
                         SetAllSubTasksComplete(false);
-                        // Для задач с подзадачами устанавливаем прогресс в 0%
                         if (HasSubTasks)
                         {
                             Completness = 0;
                         }
                     }
 
-                    // Для задач без подзадач обновляем прогресс
                     if (!HasSubTasks)
                     {
                         Completness = value ? 100 : 0;
